@@ -17,3 +17,10 @@ A simple **console-based Snake Game** built in **C++**.
 1. Clone this repository:
    ```bash
    git clone https://github.com/ankit18193/Snake-Game.git
+2. Navigate to the project folder:
+   ```bash
+   cd Snake-Game
+   g++ game.cpp -o snake   
+   ./snake
+
+   
